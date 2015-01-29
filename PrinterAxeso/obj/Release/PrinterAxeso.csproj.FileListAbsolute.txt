@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\PrinterAxeso.exe
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\PrinterAxeso.pdb
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\Epc.dll
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\Newtonsoft.Json.dll
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\ReadWriteCsv.dll
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\Newtonsoft.Json.pdb
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\Newtonsoft.Json.xml
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\ReadWriteCsv.pdb
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\bin\Release\Epc.pdb
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\obj\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\obj\Release\PrinterAxeso.Main.resources
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\obj\Release\PrinterAxeso.Properties.Resources.resources
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\obj\Release\PrinterAxeso.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\obj\Release\PrinterAxeso.exe
+C:\xampp\htdocs\Feng\printer\PrinterAxeso\PrinterAxeso\obj\Release\PrinterAxeso.pdb

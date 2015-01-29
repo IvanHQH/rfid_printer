@@ -1,0 +1,14 @@
+^XA
+^FX RS1,2,3,4,5
+^FX 1- tipo de tag rfid.  8= EPC Gen 2
+^FX 2- ajuste de antena. Fxxx para adelante Bxx para atras
+^FX 3- longitud de impresion VOID
+^FX 4- reintentos de imprimir la misma etiqueta
+^FX 5- accion en error. N para nada, P para pausa E para error
+^FX RR = reintentos de codificacion y lectura 
+^FX RW = potencia de antena.lectura, escritura
+^FX
+^RR6
+^RS8,F14,,2,P
+^RW12,23
+^XZ
